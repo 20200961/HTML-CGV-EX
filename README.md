@@ -1,2 +1,2 @@
 # myPage
-CGV 클론코딩
+HTML CGV 코딩연습
